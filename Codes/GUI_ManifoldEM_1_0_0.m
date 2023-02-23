@@ -1,7 +1,7 @@
 function varargout = GUI_ManifoldEM_1_0_0(varargin)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Copyright (c) 2020 UWM ManifoldEM team
-% Developed by Ghoncheh Mashayekhi, 2020
+% Developed by Ghoncheh Mashayekhi, 2020, Raison Dsouza 2022
 %
 % GUI_ManifoldEM_1_0_0 MATLAB code for GUI_ManifoldEM_1_0_0.fig
 %      GUI_ManifoldEM_1_0_0, by itself, creates a new GUI_ManifoldEM_1_0_0 or raises the existing
